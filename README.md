@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project leverages Landsat Collection 2 data provided by the U.S. Geological Survey (USGS) to deliver surface reflectance data efficiently. Landsat satellites (1-9) offer a wealth of data for environmental monitoring and land-use analysis. This repository helps users access, visualize, and analyze Landsat Reflectance data in real-time.
+This project leverages Landsat Collection 2 data provided by the U.S. Geological Survey (USGS) to deliver surface reflectance data efficiently. Landsat satellites (1-9) offer a wealth of data for environmental monitoring and land-use analysis. 
 
 ---
 
