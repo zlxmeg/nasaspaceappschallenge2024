@@ -22,7 +22,7 @@ This project leverages Landsat Collection 2 data provided by the U.S. Geological
 
 ## Data Access
 
-Landsat products are available for download through the [USGS EarthExplorer](https://earthexplorer.usgs.gov/) and [LandsatLook](https://landsatlook.usgs.gov/) platforms. All data is free of charge due to the USGS Landsat no-cost open access policy initiated in 2008.
+we used landsat products that are available for download through the [USGS EarthExplorer](https://earthexplorer.usgs.gov/) and [LandsatLook](https://landsatlook.usgs.gov/) platforms.
 
 ---
 
@@ -44,14 +44,6 @@ Each Landsat scene includes Quality Assessment (QA) bands to ensure data reliabi
 
 ---
 
-## Usage
-
-1. Search for and download Landsat scenes from the EarthExplorer or LandsatLook websites.
-2. Use our Python script to process Landsat surface reflectance data on-the-fly using the real-time COG format.
-3. Analyze and visualize reflectance data using various open-source geospatial libraries (e.g., GDAL, rasterio).
-
----
-
 ## References
 
 - [Landsat Science Products](https://www.usgs.gov/landsat-missions/landsat-science-products)
@@ -59,10 +51,4 @@ Each Landsat scene includes Quality Assessment (QA) bands to ensure data reliabi
 
 ---
 
-## Citation
-
-Please cite the following paper when using this data:  
-Crawford, C.J., Roy, D.P., et al. (2023). “The 50-Year Landsat Collection 2 Archive.” *Science of Remote Sensing*. DOI: [10.1016/j.srs.2023.100103](https://doi.org/10.1016/j.srs.2023.100103)
-
----
 
